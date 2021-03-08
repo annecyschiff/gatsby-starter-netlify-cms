@@ -4,7 +4,7 @@ title: Tester Post - 4 March
 date: 2021-03-03T22:32:06.402Z
 description: "This is my work on the about page "
 featuredpost: true
-featuredimage: https://www.google.com/url?sa=i&url=http%3A%2F%2Famakenlb.com%2Fjob%2Fweb-designer-ghazir-lebanon%2F&psig=AOvVaw2hTkNtqVaq_yWb0EndvwpJ&ust=1614897262701000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiPjKGXle8CFQAAAAAdAAAAABAI
+featuredimage: /img/chemex.jpg
 tags:
   - writing
 ---
