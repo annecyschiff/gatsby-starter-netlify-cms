@@ -5,6 +5,8 @@ date: 2021-03-08T21:37:32.729Z
 description: "User stories March 9th "
 featuredpost: true
 featuredimage: /img/aramoana-beach-hero.jpg
+tags:
+  - user
 ---
 **User 1:** Grace is an international student who cannot work on her visa.  Because she can't have an income in New Zealand she can't really get into a lot of the different outdoor sports here she is keen to try, besides surfing which she is already good at and bought a board for.  She has learned to mountain bike on a friends bike but wants to be able to go out with the friend so she needs her own bike.  However, she can't rent a bike anywhere.  So, she looks up renting options and finds Gearshare.  She browses bikes in the area that people are willing to rent out and and finds a good deal.  Additionally, Grace is an avid surfer and is eventually able to simply swap gear and exchange lessons on their sports with the mountain bike renter instead of renting.  
 
