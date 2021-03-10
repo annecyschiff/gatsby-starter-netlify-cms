@@ -28,4 +28,4 @@ Eugene: https://www.youtube.com/watch?v=5HOqon86Vuk
 
 \- notice the piece missing at the end here-I realized I should have planned pages for him receiving a message from a renter.  
 
-Kane:
+Kane: https://www.youtube.com/watch?v=iwqyqps1WV8
