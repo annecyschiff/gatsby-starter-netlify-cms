@@ -12,10 +12,8 @@ My color guide is composed of red, turquoise, and beige.  The colors are reminis
 
 The primary blue will be used as a background for some text panels with the light blue as the header text and the primary beige as the body text.  The Primary red serves as the Website header banner and as background for text on the webpage.  The primary beige colors text on the banner or body text in the webpage.  The secondary red can serve as headings on the body blocks of the primary red.  Additionally, the beige background will serve as breaks between the primary red and turquoise color blocks.  These beige sections will have light topographical contour lines in the secondary beige color.  In these sections, there can be text in primary red or turqoise.  
 
-
-
 My text has similar themes in mind.  The header text is also similar to some fonts used in old vintage park posters.  The body text is very simple, clean and clear  with a similar but more bold text as the subheader.  
 
 ![style guide](/img/screen-shot-2021-03-19-at-11.11.33-am.png "Color Guide")
 
-![style guide](/img/screen-shot-2021-03-19-at-11.11.43-am.png "Text Guide")
+![style guide](/img/screen-shot-2021-03-23-at-9.01.59-am.png "Text Guide")
