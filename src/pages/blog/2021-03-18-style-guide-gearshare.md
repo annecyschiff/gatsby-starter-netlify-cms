@@ -4,7 +4,7 @@ title: "Style Guide Gearshare "
 date: 2021-03-18T22:13:01.260Z
 description: "19 March "
 featuredpost: true
-featuredimage: /img/screen-shot-2021-03-19-at-11.11.33-am.png
+featuredimage: /img/screen-shot-2021-03-23-at-9.07.31-am.png
 tags:
   - styleguide
 ---
@@ -14,6 +14,8 @@ The primary blue will be used as a background for some text panels with the ligh
 
 My text has similar themes in mind.  The header text is also similar to some fonts used in old vintage park posters.  The body text is very simple, clean and clear  with a similar but more bold text as the subheader.  
 
-![style guide](/img/screen-shot-2021-03-19-at-11.11.33-am.png "Color Guide")
+![style guide](/img/screen-shot-2021-03-23-at-9.07.31-am.png "Color Guide")
+
+![](/img/screen-shot-2021-03-16-at-9.30.55-am.png)
 
 ![style guide](/img/screen-shot-2021-03-23-at-9.01.59-am.png "Text Guide")
