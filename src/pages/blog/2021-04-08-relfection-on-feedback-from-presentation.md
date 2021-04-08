@@ -14,6 +14,8 @@ They also said some things could be tweaked.  The search bar spacing is a bit of
 
 They liked how I incorporated user testing.  I had a much more complex plan for the number of pages and renting process and through user testing saw that I should simplify it to be an easier process for users.
 
-
-
 I also had issues with responsiveness on some of the pages in mobile view.  I couldn't figure out how to fix them unfortunately.
+
+
+
+I managed to fix the search bar and the banner image on the about page.  I put text heading of the about page over the banner image like Adon recommended.  I also made the text at the top of the about page in a thinner container like they said.
