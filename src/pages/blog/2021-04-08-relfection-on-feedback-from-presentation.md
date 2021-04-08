@@ -18,4 +18,4 @@ I also had issues with responsiveness on some of the pages in mobile view.  I co
 
 
 
-I managed to fix the search bar and the banner image on the about page.  I put text heading of the about page over the banner image like Adon recommended.  I also made the text at the top of the about page in a thinner container like they said.
+I managed to fix the search bar and the banner image on the about page.  I put text heading of the about page over the banner image like Adon recommended.  I also made the text at the top of the about page in a thinner container like they said.  I changed the header font to poppins because it is a bit clearer.
